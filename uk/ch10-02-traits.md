@@ -1,6 +1,6 @@
-## Traits: Defining Shared Behavior
+## Особливості: визначення спільної поведінки
 
-A *trait* defines functionality a particular type has and can share with other types. We can use traits to define shared behavior in an abstract way. We can use *trait bounds* to specify that a generic type can be any type that has certain behavior.
+A *trait* defines functionality a particular type has and can share with other types. We can use traits to define shared behavior in an abstract way. Ми можемо скористатись пунктом *риса*, щоб вказати, що загальний тип може бути будь-яким типом, який має певну поведінку.
 
 > Note: Traits are similar to a feature often called *interfaces* in other languages, although with some differences.
 
