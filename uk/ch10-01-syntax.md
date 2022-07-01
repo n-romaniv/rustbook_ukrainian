@@ -1,6 +1,6 @@
-## Generic Data Types
+## Загальні типи даних
 
-We use generics to create definitions for items like function signatures or structs, which we can then use with many different concrete data types. Let’s first look at how to define functions, structs, enums, and methods using generics. Then we’ll discuss how generics affect code performance.
+Ми використовуємо узагальненню для створення визначень для таких елементів, як підписи функцій або структури, які потім можна використовувати з багатьма різними конкретними типами даних. Давайте поглянемо на, як визначити функції, структури, прояснення та методи, що використовують генерації. Then we’ll discuss how generics affect code performance.
 
 ### In Function Definitions
 
